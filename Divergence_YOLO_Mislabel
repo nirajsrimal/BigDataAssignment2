@@ -1,0 +1,302 @@
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  1  : Predicted Incorrectly, Time taken:  5.012038230895996
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  2  : Predicted Incorrectly, Time taken:  2.704113245010376
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  3  : Predicted Successfully, Time taken:  2.6604814529418945
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  4  : Predicted Incorrectly, Time taken:  2.705174207687378
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  5  : Predicted Incorrectly, Time taken:  2.739305257797241
+Original class :  ['person']
+Prediction class :  ['person', 'sofa']
+Sample  6  : Predicted Incorrectly, Time taken:  2.6863436698913574
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  7  : Predicted Incorrectly, Time taken:  2.678095817565918
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  8  : Predicted Incorrectly, Time taken:  2.7274534702301025
+Original class :  ['person']
+Prediction class :  ['bottle']
+Sample  9  : Predicted Incorrectly, Time taken:  2.6651830673217773
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  10  : Predicted Incorrectly, Time taken:  2.649745464324951
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  11  : Predicted Incorrectly, Time taken:  2.6944055557250977
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  12  : Predicted Incorrectly, Time taken:  2.742675542831421
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  13  : Predicted Incorrectly, Time taken:  2.767984390258789
+Original class :  ['person']
+Prediction class :  ['cat', 'chair', 'sofa']
+Sample  14  : Predicted Incorrectly, Time taken:  2.788360118865967
+Original class :  ['person']
+Prediction class :  ['person', 'tvmonitor']
+Sample  15  : Predicted Incorrectly, Time taken:  2.8358864784240723
+Original class :  ['person']
+Prediction class :  []
+Sample  16  : Predicted Incorrectly, Time taken:  2.8566012382507324
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  17  : Predicted Incorrectly, Time taken:  2.8950564861297607
+Original class :  ['person']
+Prediction class :  ['aeroplane', 'chair', 'person', 'sofa']
+Sample  18  : Predicted Incorrectly, Time taken:  2.8027217388153076
+Original class :  ['person']
+Prediction class :  ['dog']
+Sample  19  : Predicted Incorrectly, Time taken:  2.8579535484313965
+Original class :  ['person']
+Prediction class :  ['bus', 'person', 'tvmonitor']
+Sample  20  : Predicted Incorrectly, Time taken:  2.8145194053649902
+Original class :  ['person']
+Prediction class :  ['person', 'tvmonitor']
+Sample  21  : Predicted Incorrectly, Time taken:  2.788248300552368
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  22  : Predicted Incorrectly, Time taken:  2.9408118724823
+Original class :  ['person']
+Prediction class :  ['tvmonitor']
+Sample  23  : Predicted Incorrectly, Time taken:  2.856618642807007
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  24  : Predicted Incorrectly, Time taken:  2.800201654434204
+Original class :  ['person']
+Prediction class :  ['tvmonitor']
+Sample  25  : Predicted Incorrectly, Time taken:  2.9055984020233154
+Original class :  ['person']
+Prediction class :  ['chair', 'sofa']
+Sample  26  : Predicted Incorrectly, Time taken:  2.842585325241089
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  27  : Predicted Incorrectly, Time taken:  2.8606021404266357
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  28  : Predicted Incorrectly, Time taken:  2.778421401977539
+Original class :  ['person']
+Prediction class :  ['chair', 'person', 'sofa']
+Sample  29  : Predicted Incorrectly, Time taken:  2.8234057426452637
+Original class :  ['person']
+Prediction class :  ['bird']
+Sample  30  : Predicted Incorrectly, Time taken:  2.83528208732605
+Original class :  ['person']
+Prediction class :  ['bottle', 'person']
+Sample  31  : Predicted Incorrectly, Time taken:  2.903327703475952
+Original class :  ['person']
+Prediction class :  ['bird', 'chair']
+Sample  32  : Predicted Incorrectly, Time taken:  2.7474915981292725
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  33  : Predicted Incorrectly, Time taken:  2.9015331268310547
+Original class :  ['person']
+Prediction class :  ['boat', 'tvmonitor']
+Sample  34  : Predicted Incorrectly, Time taken:  2.82106614112854
+Original class :  ['person']
+Prediction class :  ['bottle', 'chair', 'person']
+Sample  35  : Predicted Incorrectly, Time taken:  2.8093175888061523
+Original class :  ['person']
+Prediction class :  ['bird', 'cat']
+Sample  36  : Predicted Incorrectly, Time taken:  2.8624866008758545
+Original class :  ['person']
+Prediction class :  ['chair', 'sofa']
+Sample  37  : Predicted Incorrectly, Time taken:  2.7861335277557373
+Original class :  ['person']
+Prediction class :  ['car']
+Sample  38  : Predicted Incorrectly, Time taken:  2.8948276042938232
+Original class :  ['person']
+Prediction class :  ['chair', 'diningtable']
+Sample  39  : Predicted Incorrectly, Time taken:  2.887620449066162
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  40  : Predicted Incorrectly, Time taken:  2.8744378089904785
+Original class :  ['person']
+Prediction class :  ['bottle', 'car']
+Sample  41  : Predicted Incorrectly, Time taken:  2.8276000022888184
+Original class :  ['person']
+Prediction class :  ['bus', 'car', 'person']
+Sample  42  : Predicted Incorrectly, Time taken:  2.823745012283325
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  43  : Predicted Incorrectly, Time taken:  2.8275821208953857
+Original class :  ['person']
+Prediction class :  ['cat', 'tvmonitor']
+Sample  44  : Predicted Incorrectly, Time taken:  2.780870199203491
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  45  : Predicted Incorrectly, Time taken:  2.8426849842071533
+Original class :  ['person']
+Prediction class :  ['motorbike', 'person']
+Sample  46  : Predicted Incorrectly, Time taken:  2.9026029109954834
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  47  : Predicted Incorrectly, Time taken:  2.8163719177246094
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  48  : Predicted Incorrectly, Time taken:  2.850114345550537
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  49  : Predicted Incorrectly, Time taken:  2.8479065895080566
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  50  : Predicted Incorrectly, Time taken:  2.800048589706421
+Original class :  ['person']
+Prediction class :  ['chair', 'person']
+Sample  51  : Predicted Incorrectly, Time taken:  2.7885818481445312
+Original class :  ['person']
+Prediction class :  ['cat']
+Sample  52  : Predicted Incorrectly, Time taken:  2.820413112640381
+Original class :  ['person']
+Prediction class :  ['aeroplane', 'chair', 'person']
+Sample  53  : Predicted Incorrectly, Time taken:  2.957913875579834
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  54  : Predicted Incorrectly, Time taken:  2.8992013931274414
+Original class :  ['person']
+Prediction class :  ['chair', 'person', 'tvmonitor']
+Sample  55  : Predicted Incorrectly, Time taken:  2.8482534885406494
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  56  : Predicted Incorrectly, Time taken:  2.8352136611938477
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  57  : Predicted Incorrectly, Time taken:  2.839097738265991
+Original class :  ['person']
+Prediction class :  ['chair', 'person', 'sofa']
+Sample  58  : Predicted Incorrectly, Time taken:  2.8331077098846436
+Original class :  ['person']
+Prediction class :  ['chair', 'person', 'sofa']
+Sample  59  : Predicted Incorrectly, Time taken:  2.82239031791687
+Original class :  ['person']
+Prediction class :  ['person', 'sofa']
+Sample  60  : Predicted Incorrectly, Time taken:  2.877919912338257
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  61  : Predicted Incorrectly, Time taken:  2.7993884086608887
+Original class :  ['person']
+Prediction class :  ['person', 'sofa', 'tvmonitor']
+Sample  62  : Predicted Incorrectly, Time taken:  2.8580515384674072
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  63  : Predicted Incorrectly, Time taken:  2.822202205657959
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  64  : Predicted Incorrectly, Time taken:  2.8698132038116455
+Original class :  ['person']
+Prediction class :  ['chair', 'tvmonitor']
+Sample  65  : Predicted Incorrectly, Time taken:  2.8728585243225098
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  66  : Predicted Incorrectly, Time taken:  2.845243215560913
+Original class :  ['person']
+Prediction class :  ['bottle', 'bottle']
+Sample  67  : Predicted Incorrectly, Time taken:  2.838183879852295
+Original class :  ['person']
+Prediction class :  ['cow']
+Sample  68  : Predicted Incorrectly, Time taken:  2.786436080932617
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  69  : Predicted Incorrectly, Time taken:  2.837827682495117
+Original class :  ['person']
+Prediction class :  ['chair', 'person']
+Sample  70  : Predicted Incorrectly, Time taken:  2.8366012573242188
+Original class :  ['person']
+Prediction class :  ['cat']
+Sample  71  : Predicted Incorrectly, Time taken:  2.8175652027130127
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  72  : Predicted Incorrectly, Time taken:  2.855069637298584
+Original class :  ['person']
+Prediction class :  ['chair', 'diningtable', 'dog']
+Sample  73  : Predicted Incorrectly, Time taken:  2.902108907699585
+Original class :  ['person']
+Prediction class :  []
+Sample  74  : Predicted Incorrectly, Time taken:  2.8081493377685547
+Original class :  ['person']
+Prediction class :  ['boat', 'person']
+Sample  75  : Predicted Incorrectly, Time taken:  2.8592782020568848
+Original class :  ['person']
+Prediction class :  ['sofa', 'sofa']
+Sample  76  : Predicted Incorrectly, Time taken:  2.8142528533935547
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  77  : Predicted Incorrectly, Time taken:  2.7712905406951904
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  78  : Predicted Incorrectly, Time taken:  2.771383285522461
+Original class :  ['person']
+Prediction class :  ['bird']
+Sample  79  : Predicted Incorrectly, Time taken:  2.8806650638580322
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  80  : Predicted Incorrectly, Time taken:  2.892055034637451
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  81  : Predicted Incorrectly, Time taken:  2.8569729328155518
+Original class :  ['person']
+Prediction class :  ['chair', 'sofa']
+Sample  82  : Predicted Incorrectly, Time taken:  2.8763582706451416
+Original class :  ['person']
+Prediction class :  ['chair', 'person']
+Sample  83  : Predicted Incorrectly, Time taken:  2.8675360679626465
+Original class :  ['person']
+Prediction class :  ['tvmonitor']
+Sample  84  : Predicted Incorrectly, Time taken:  2.8079161643981934
+Original class :  ['person']
+Prediction class :  ['bus', 'person']
+Sample  85  : Predicted Incorrectly, Time taken:  2.8697617053985596
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  86  : Predicted Incorrectly, Time taken:  2.8785250186920166
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  87  : Predicted Incorrectly, Time taken:  2.8298513889312744
+Original class :  ['person']
+Prediction class :  ['chair', 'person']
+Sample  88  : Predicted Incorrectly, Time taken:  2.8958561420440674
+Original class :  ['person']
+Prediction class :  ['horse']
+Sample  89  : Predicted Incorrectly, Time taken:  2.823864221572876
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  90  : Predicted Incorrectly, Time taken:  2.888252019882202
+Original class :  ['person']
+Prediction class :  ['tvmonitor']
+Sample  91  : Predicted Incorrectly, Time taken:  2.813208818435669
+Original class :  ['person']
+Prediction class :  ['sofa']
+Sample  92  : Predicted Incorrectly, Time taken:  2.91562819480896
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  93  : Predicted Incorrectly, Time taken:  2.8397953510284424
+Original class :  ['person']
+Prediction class :  ['chair', 'sofa']
+Sample  94  : Predicted Incorrectly, Time taken:  2.8817667961120605
+Original class :  ['person']
+Prediction class :  ['cat', 'tvmonitor']
+Sample  95  : Predicted Incorrectly, Time taken:  2.971888303756714
+Original class :  ['person']
+Prediction class :  ['chair', 'chair', 'person']
+Sample  96  : Predicted Incorrectly, Time taken:  2.894317626953125
+Original class :  ['person']
+Prediction class :  ['person', 'sofa']
+Sample  97  : Predicted Incorrectly, Time taken:  2.86177659034729
+Original class :  ['person']
+Prediction class :  ['cat', 'chair', 'person', 'sofa']
+Sample  98  : Predicted Incorrectly, Time taken:  2.852992534637451
+Original class :  ['person']
+Prediction class :  ['chair']
+Sample  99  : Predicted Incorrectly, Time taken:  2.8435122966766357
+Original class :  ['person']
+Prediction class :  ['bird', 'bird']
+Sample  100  : Predicted Incorrectly, Time taken:  2.8973844051361084
+
+Accuracy :  1 % , Time taken per Sample:  2.851513247489929

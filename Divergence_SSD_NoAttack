@@ -1,0 +1,302 @@
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  1  : Predicted Successfully, Time taken:  0.9479424953460693
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  2  : Predicted Successfully, Time taken:  0.6985011100769043
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  3  : Predicted Successfully, Time taken:  0.6810989379882812
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  4  : Predicted Successfully, Time taken:  0.6688401699066162
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  5  : Predicted Successfully, Time taken:  0.6729645729064941
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  6  : Predicted Successfully, Time taken:  0.6645553112030029
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  7  : Predicted Successfully, Time taken:  0.7310843467712402
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  8  : Predicted Successfully, Time taken:  0.665987491607666
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  9  : Predicted Successfully, Time taken:  0.6752145290374756
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  10  : Predicted Successfully, Time taken:  0.6621701717376709
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  11  : Predicted Successfully, Time taken:  0.6605982780456543
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  12  : Predicted Successfully, Time taken:  0.7312788963317871
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  13  : Predicted Successfully, Time taken:  0.6559159755706787
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  14  : Predicted Successfully, Time taken:  0.6619486808776855
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  15  : Predicted Successfully, Time taken:  0.6637358665466309
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  16  : Predicted Successfully, Time taken:  0.6673097610473633
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  17  : Predicted Successfully, Time taken:  0.6680757999420166
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  18  : Predicted Successfully, Time taken:  0.660191535949707
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  19  : Predicted Successfully, Time taken:  0.6575131416320801
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  20  : Predicted Successfully, Time taken:  0.6624934673309326
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  21  : Predicted Successfully, Time taken:  0.6718859672546387
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  22  : Predicted Successfully, Time taken:  0.6617321968078613
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  23  : Predicted Successfully, Time taken:  0.6589457988739014
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  24  : Predicted Successfully, Time taken:  0.6724057197570801
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  25  : Predicted Successfully, Time taken:  0.6643698215484619
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  26  : Predicted Successfully, Time taken:  0.6681206226348877
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  27  : Predicted Successfully, Time taken:  0.6621031761169434
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  28  : Predicted Successfully, Time taken:  0.6697731018066406
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  29  : Predicted Successfully, Time taken:  0.6616604328155518
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  30  : Predicted Successfully, Time taken:  0.6624495983123779
+Original class :  ['person']
+Prediction class :  []
+Sample  31  : Predicted Incorrectly, Time taken:  0.6664712429046631
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  32  : Predicted Successfully, Time taken:  0.6665518283843994
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  33  : Predicted Successfully, Time taken:  0.6674952507019043
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  34  : Predicted Successfully, Time taken:  0.6553103923797607
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  35  : Predicted Successfully, Time taken:  0.6624290943145752
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  36  : Predicted Successfully, Time taken:  0.6660447120666504
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  37  : Predicted Successfully, Time taken:  0.6582894325256348
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  38  : Predicted Successfully, Time taken:  0.6586153507232666
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  39  : Predicted Successfully, Time taken:  0.6640326976776123
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  40  : Predicted Successfully, Time taken:  0.7088422775268555
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  41  : Predicted Successfully, Time taken:  0.6650815010070801
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  42  : Predicted Successfully, Time taken:  0.6592099666595459
+Original class :  ['person']
+Prediction class :  ['bird', 'person']
+Sample  43  : Predicted Incorrectly, Time taken:  0.6600098609924316
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  44  : Predicted Successfully, Time taken:  0.6609015464782715
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  45  : Predicted Successfully, Time taken:  0.659013032913208
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  46  : Predicted Successfully, Time taken:  0.6602447032928467
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  47  : Predicted Successfully, Time taken:  0.6584506034851074
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  48  : Predicted Successfully, Time taken:  0.6663143634796143
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  49  : Predicted Successfully, Time taken:  0.6598143577575684
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  50  : Predicted Successfully, Time taken:  0.6628351211547852
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  51  : Predicted Successfully, Time taken:  0.6582043170928955
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  52  : Predicted Successfully, Time taken:  0.6600821018218994
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  53  : Predicted Successfully, Time taken:  0.6596982479095459
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  54  : Predicted Successfully, Time taken:  0.6632721424102783
+Original class :  ['person']
+Prediction class :  ['person', 'tvmonitor']
+Sample  55  : Predicted Incorrectly, Time taken:  0.6625630855560303
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  56  : Predicted Successfully, Time taken:  0.6606142520904541
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  57  : Predicted Successfully, Time taken:  0.6601231098175049
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  58  : Predicted Successfully, Time taken:  0.6605672836303711
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  59  : Predicted Successfully, Time taken:  0.6578888893127441
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  60  : Predicted Successfully, Time taken:  0.6599807739257812
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  61  : Predicted Successfully, Time taken:  0.6607744693756104
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  62  : Predicted Successfully, Time taken:  0.6613779067993164
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  63  : Predicted Successfully, Time taken:  0.6648695468902588
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  64  : Predicted Successfully, Time taken:  0.6611988544464111
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  65  : Predicted Successfully, Time taken:  0.6684305667877197
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  66  : Predicted Successfully, Time taken:  0.6624960899353027
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  67  : Predicted Successfully, Time taken:  0.6606874465942383
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  68  : Predicted Successfully, Time taken:  0.6592376232147217
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  69  : Predicted Successfully, Time taken:  0.6600930690765381
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  70  : Predicted Successfully, Time taken:  0.6584694385528564
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  71  : Predicted Successfully, Time taken:  0.6616463661193848
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  72  : Predicted Successfully, Time taken:  0.6636714935302734
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  73  : Predicted Successfully, Time taken:  0.6590580940246582
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  74  : Predicted Successfully, Time taken:  0.6605868339538574
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  75  : Predicted Successfully, Time taken:  0.6581499576568604
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  76  : Predicted Successfully, Time taken:  0.6571612358093262
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  77  : Predicted Successfully, Time taken:  0.6576590538024902
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  78  : Predicted Successfully, Time taken:  0.6604790687561035
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  79  : Predicted Successfully, Time taken:  0.6601424217224121
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  80  : Predicted Successfully, Time taken:  0.665057897567749
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  81  : Predicted Successfully, Time taken:  0.6573755741119385
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  82  : Predicted Successfully, Time taken:  0.6577978134155273
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  83  : Predicted Successfully, Time taken:  0.663233757019043
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  84  : Predicted Successfully, Time taken:  0.6586780548095703
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  85  : Predicted Successfully, Time taken:  0.6583507061004639
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  86  : Predicted Successfully, Time taken:  0.6627347469329834
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  87  : Predicted Successfully, Time taken:  0.6599905490875244
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  88  : Predicted Successfully, Time taken:  0.6673548221588135
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  89  : Predicted Successfully, Time taken:  0.6624433994293213
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  90  : Predicted Successfully, Time taken:  0.658961296081543
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  91  : Predicted Successfully, Time taken:  0.6583926677703857
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  92  : Predicted Successfully, Time taken:  0.658886194229126
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  93  : Predicted Successfully, Time taken:  0.660480260848999
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  94  : Predicted Successfully, Time taken:  0.665579080581665
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  95  : Predicted Successfully, Time taken:  0.6629087924957275
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  96  : Predicted Successfully, Time taken:  0.6578812599182129
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  97  : Predicted Successfully, Time taken:  0.6625094413757324
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  98  : Predicted Successfully, Time taken:  0.6596765518188477
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  99  : Predicted Successfully, Time taken:  0.6611647605895996
+Original class :  ['person']
+Prediction class :  ['person']
+Sample  100  : Predicted Successfully, Time taken:  0.6620745658874512
+
+Accuracy :  97 % , Time taken per Sample:  0.6673754024505615

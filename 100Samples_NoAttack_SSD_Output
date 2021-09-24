@@ -1,0 +1,302 @@
+Original class :  ['dog', 'sheep']
+Prediction class:  ['dog', 'sheep']
+Sample  1  : Predicted Successfully, Time taken:  0.9934813976287842
+Original class :  ['sheep']
+Prediction class:  ['sheep']
+Sample  2  : Predicted Successfully, Time taken:  0.7341587543487549
+Original class :  ['sheep']
+Prediction class:  ['sheep']
+Sample  3  : Predicted Successfully, Time taken:  0.6757912635803223
+Original class :  ['sheep', 'sheep']
+Prediction class:  ['sheep', 'sheep']
+Sample  4  : Predicted Successfully, Time taken:  0.7098839282989502
+Original class :  ['person', 'sheep']
+Prediction class:  ['person', 'sheep']
+Sample  5  : Predicted Successfully, Time taken:  0.6717472076416016
+Original class :  ['chair']
+Prediction class:  ['chair']
+Sample  6  : Predicted Successfully, Time taken:  0.6705582141876221
+Original class :  ['chair', 'person']
+Prediction class:  ['chair', 'person', 'tvmonitor']
+Sample  7  : Predicted Incorrectly, Time taken:  0.6682009696960449
+Original class :  ['chair', 'person']
+Prediction class:  ['chair', 'person']
+Sample  8  : Predicted Successfully, Time taken:  0.6702284812927246
+Original class :  ['chair']
+Prediction class:  ['chair']
+Sample  9  : Predicted Successfully, Time taken:  0.6718242168426514
+Original class :  ['cat', 'chair']
+Prediction class:  ['cat', 'chair']
+Sample  10  : Predicted Successfully, Time taken:  0.6683006286621094
+Original class :  ['bird']
+Prediction class:  ['bird', 'bird']
+Sample  11  : Predicted Incorrectly, Time taken:  0.701127290725708
+Original class :  ['bird']
+Prediction class:  ['bird']
+Sample  12  : Predicted Successfully, Time taken:  0.6823616027832031
+Original class :  ['bird']
+Prediction class:  ['bird']
+Sample  13  : Predicted Successfully, Time taken:  0.6638674736022949
+Original class :  ['bird']
+Prediction class:  ['bird']
+Sample  14  : Predicted Successfully, Time taken:  0.6654293537139893
+Original class :  ['bird']
+Prediction class:  ['bird']
+Sample  15  : Predicted Successfully, Time taken:  0.6633543968200684
+Original class :  ['aeroplane']
+Prediction class:  ['aeroplane']
+Sample  16  : Predicted Successfully, Time taken:  0.6755216121673584
+Original class :  ['aeroplane']
+Prediction class:  ['aeroplane']
+Sample  17  : Predicted Successfully, Time taken:  0.6643428802490234
+Original class :  ['aeroplane']
+Prediction class:  ['aeroplane']
+Sample  18  : Predicted Successfully, Time taken:  0.7124114036560059
+Original class :  ['aeroplane']
+Prediction class:  ['aeroplane']
+Sample  19  : Predicted Successfully, Time taken:  0.670508623123169
+Original class :  ['aeroplane', 'aeroplane']
+Prediction class:  ['aeroplane', 'aeroplane']
+Sample  20  : Predicted Successfully, Time taken:  0.7436871528625488
+Original class :  ['diningtable']
+Prediction class:  ['diningtable']
+Sample  21  : Predicted Successfully, Time taken:  0.6783254146575928
+Original class :  ['chair', 'diningtable']
+Prediction class:  ['chair', 'diningtable']
+Sample  22  : Predicted Successfully, Time taken:  0.6807353496551514
+Original class :  ['bottle', 'diningtable']
+Prediction class:  ['bottle', 'diningtable']
+Sample  23  : Predicted Successfully, Time taken:  0.6666409969329834
+Original class :  ['chair', 'diningtable']
+Prediction class:  ['chair', 'diningtable']
+Sample  24  : Predicted Successfully, Time taken:  0.6759493350982666
+Original class :  ['diningtable']
+Prediction class:  ['diningtable']
+Sample  25  : Predicted Successfully, Time taken:  0.67305588722229
+Original class :  ['boat']
+Prediction class:  ['boat']
+Sample  26  : Predicted Successfully, Time taken:  0.665555477142334
+Original class :  ['boat', 'person']
+Prediction class:  ['boat', 'person']
+Sample  27  : Predicted Successfully, Time taken:  0.6698899269104004
+Original class :  ['boat']
+Prediction class:  ['boat']
+Sample  28  : Predicted Successfully, Time taken:  0.6625299453735352
+Original class :  ['boat', 'boat']
+Prediction class:  ['boat', 'boat']
+Sample  29  : Predicted Successfully, Time taken:  0.6695621013641357
+Original class :  ['boat']
+Prediction class:  ['boat']
+Sample  30  : Predicted Successfully, Time taken:  0.6655566692352295
+Original class :  ['cat']
+Prediction class:  ['cat']
+Sample  31  : Predicted Successfully, Time taken:  0.6810307502746582
+Original class :  ['cat', 'person']
+Prediction class:  ['cat', 'person']
+Sample  32  : Predicted Successfully, Time taken:  0.6663544178009033
+Original class :  ['bottle', 'cat']
+Prediction class:  ['bottle', 'cat']
+Sample  33  : Predicted Successfully, Time taken:  0.6641981601715088
+Original class :  ['cat']
+Prediction class:  ['cat']
+Sample  34  : Predicted Successfully, Time taken:  0.6696019172668457
+Original class :  ['cat', 'cat']
+Prediction class:  ['cat', 'cat']
+Sample  35  : Predicted Successfully, Time taken:  0.6682250499725342
+Original class :  ['bottle', 'bottle']
+Prediction class:  ['bottle', 'bottle', 'bottle']
+Sample  36  : Predicted Incorrectly, Time taken:  0.6669266223907471
+Original class :  ['bottle', 'cat']
+Prediction class:  ['bottle', 'cat']
+Sample  37  : Predicted Successfully, Time taken:  0.6635138988494873
+Original class :  ['bottle']
+Prediction class:  ['bottle']
+Sample  38  : Predicted Successfully, Time taken:  0.6650247573852539
+Original class :  ['bottle']
+Prediction class:  []
+Sample  39  : Predicted Incorrectly, Time taken:  0.6652851104736328
+Original class :  ['bottle', 'tvmonitor']
+Prediction class:  ['bottle', 'tvmonitor']
+Sample  40  : Predicted Successfully, Time taken:  0.6675519943237305
+Original class :  ['bicycle', 'person']
+Prediction class:  ['bicycle', 'person']
+Sample  41  : Predicted Successfully, Time taken:  0.6640980243682861
+Original class :  ['bicycle']
+Prediction class:  ['bicycle']
+Sample  42  : Predicted Successfully, Time taken:  0.6672627925872803
+Original class :  ['bicycle', 'person']
+Prediction class:  ['bicycle', 'person']
+Sample  43  : Predicted Successfully, Time taken:  0.665658712387085
+Original class :  ['bicycle', 'person']
+Prediction class:  ['bicycle', 'person']
+Sample  44  : Predicted Successfully, Time taken:  0.6649093627929688
+Original class :  ['bicycle', 'person']
+Prediction class:  ['bicycle', 'person']
+Sample  45  : Predicted Successfully, Time taken:  0.6668884754180908
+Original class :  ['dog']
+Prediction class:  ['dog']
+Sample  46  : Predicted Successfully, Time taken:  0.6657509803771973
+Original class :  ['dog']
+Prediction class:  ['dog']
+Sample  47  : Predicted Successfully, Time taken:  0.6692197322845459
+Original class :  ['dog', 'sheep']
+Prediction class:  ['dog', 'sheep']
+Sample  48  : Predicted Successfully, Time taken:  0.6656196117401123
+Original class :  ['dog']
+Prediction class:  ['dog']
+Sample  49  : Predicted Successfully, Time taken:  0.6651663780212402
+Original class :  ['dog', 'person']
+Prediction class:  ['dog', 'person']
+Sample  50  : Predicted Successfully, Time taken:  0.6731276512145996
+Original class :  ['cow']
+Prediction class:  ['cow']
+Sample  51  : Predicted Successfully, Time taken:  0.6623978614807129
+Original class :  ['cow', 'cow']
+Prediction class:  ['cow']
+Sample  52  : Predicted Incorrectly, Time taken:  0.6748356819152832
+Original class :  ['cow', 'person']
+Prediction class:  ['cow', 'person']
+Sample  53  : Predicted Successfully, Time taken:  0.6642069816589355
+Original class :  ['cow', 'cow']
+Prediction class:  ['cow']
+Sample  54  : Predicted Incorrectly, Time taken:  0.6632392406463623
+Original class :  ['cow']
+Prediction class:  ['cow']
+Sample  55  : Predicted Successfully, Time taken:  0.6647112369537354
+Original class :  ['sofa']
+Prediction class:  ['pottedplant', 'sofa']
+Sample  56  : Predicted Incorrectly, Time taken:  0.6893446445465088
+Original class :  ['sofa']
+Prediction class:  ['sofa']
+Sample  57  : Predicted Successfully, Time taken:  0.7547287940979004
+Original class :  ['sofa']
+Prediction class:  ['sofa']
+Sample  58  : Predicted Successfully, Time taken:  0.6666676998138428
+Original class :  ['sofa', 'tvmonitor']
+Prediction class:  ['sofa', 'tvmonitor']
+Sample  59  : Predicted Successfully, Time taken:  0.6660616397857666
+Original class :  ['person', 'sofa']
+Prediction class:  ['person', 'sofa']
+Sample  60  : Predicted Successfully, Time taken:  0.6671142578125
+Original class :  ['car', 'car']
+Prediction class:  ['car', 'car']
+Sample  61  : Predicted Successfully, Time taken:  0.6665482521057129
+Original class :  ['car']
+Prediction class:  ['car']
+Sample  62  : Predicted Successfully, Time taken:  0.6665043830871582
+Original class :  ['car']
+Prediction class:  ['car']
+Sample  63  : Predicted Successfully, Time taken:  0.6851568222045898
+Original class :  ['car']
+Prediction class:  ['car']
+Sample  64  : Predicted Successfully, Time taken:  0.7096297740936279
+Original class :  ['car', 'person']
+Prediction class:  ['car', 'person']
+Sample  65  : Predicted Successfully, Time taken:  0.662938117980957
+Original class :  ['horse', 'person']
+Prediction class:  ['horse', 'person']
+Sample  66  : Predicted Successfully, Time taken:  0.6684451103210449
+Original class :  ['cat', 'person']
+Prediction class:  ['cat', 'person']
+Sample  67  : Predicted Successfully, Time taken:  0.665668249130249
+Original class :  ['horse', 'person']
+Prediction class:  ['horse', 'person']
+Sample  68  : Predicted Successfully, Time taken:  0.6615626811981201
+Original class :  ['motorbike', 'person']
+Prediction class:  ['motorbike', 'person']
+Sample  69  : Predicted Successfully, Time taken:  0.6668977737426758
+Original class :  ['car', 'person']
+Prediction class:  ['car', 'person']
+Sample  70  : Predicted Successfully, Time taken:  0.6655566692352295
+Original class :  ['horse', 'person']
+Prediction class:  ['horse', 'person']
+Sample  71  : Predicted Successfully, Time taken:  0.6669669151306152
+Original class :  ['horse', 'person']
+Prediction class:  ['horse', 'person']
+Sample  72  : Predicted Successfully, Time taken:  0.6647138595581055
+Original class :  ['horse']
+Prediction class:  ['horse']
+Sample  73  : Predicted Successfully, Time taken:  0.6669914722442627
+Original class :  ['horse', 'person']
+Prediction class:  ['horse', 'person']
+Sample  74  : Predicted Successfully, Time taken:  0.662999153137207
+Original class :  ['horse', 'person']
+Prediction class:  ['horse', 'person']
+Sample  75  : Predicted Successfully, Time taken:  0.6680493354797363
+Original class :  ['bus']
+Prediction class:  ['bus']
+Sample  76  : Predicted Successfully, Time taken:  0.6713736057281494
+Original class :  ['bus', 'person']
+Prediction class:  ['bus', 'person']
+Sample  77  : Predicted Successfully, Time taken:  0.6607513427734375
+Original class :  ['bus']
+Prediction class:  ['bus']
+Sample  78  : Predicted Successfully, Time taken:  0.6662242412567139
+Original class :  ['bus', 'bus']
+Prediction class:  ['bus', 'bus']
+Sample  79  : Predicted Successfully, Time taken:  0.668299674987793
+Original class :  ['bus']
+Prediction class:  ['bus']
+Sample  80  : Predicted Successfully, Time taken:  0.6628742218017578
+Original class :  ['train']
+Prediction class:  ['train']
+Sample  81  : Predicted Successfully, Time taken:  0.6623353958129883
+Original class :  ['train']
+Prediction class:  ['train']
+Sample  82  : Predicted Successfully, Time taken:  0.6622755527496338
+Original class :  ['train']
+Prediction class:  ['train']
+Sample  83  : Predicted Successfully, Time taken:  0.6616179943084717
+Original class :  ['train']
+Prediction class:  ['train']
+Sample  84  : Predicted Successfully, Time taken:  0.6671531200408936
+Original class :  ['train']
+Prediction class:  ['train']
+Sample  85  : Predicted Successfully, Time taken:  0.6635458469390869
+Original class :  ['motorbike', 'person']
+Prediction class:  ['motorbike', 'person']
+Sample  86  : Predicted Successfully, Time taken:  0.6820883750915527
+Original class :  ['motorbike', 'person']
+Prediction class:  ['motorbike', 'person']
+Sample  87  : Predicted Successfully, Time taken:  0.706045389175415
+Original class :  ['motorbike', 'person']
+Prediction class:  ['motorbike', 'person']
+Sample  88  : Predicted Successfully, Time taken:  0.6915750503540039
+Original class :  ['motorbike']
+Prediction class:  []
+Sample  89  : Predicted Incorrectly, Time taken:  0.6682586669921875
+Original class :  ['motorbike', 'person']
+Prediction class:  ['motorbike', 'person']
+Sample  90  : Predicted Successfully, Time taken:  0.6728456020355225
+Original class :  ['pottedplant']
+Prediction class:  ['pottedplant']
+Sample  91  : Predicted Successfully, Time taken:  0.6688828468322754
+Original class :  ['person', 'pottedplant']
+Prediction class:  ['person', 'pottedplant']
+Sample  92  : Predicted Successfully, Time taken:  0.6664974689483643
+Original class :  ['pottedplant', 'pottedplant']
+Prediction class:  ['pottedplant', 'pottedplant']
+Sample  93  : Predicted Successfully, Time taken:  0.6628978252410889
+Original class :  ['pottedplant']
+Prediction class:  ['person', 'pottedplant']
+Sample  94  : Predicted Incorrectly, Time taken:  0.6698904037475586
+Original class :  ['pottedplant']
+Prediction class:  ['pottedplant']
+Sample  95  : Predicted Successfully, Time taken:  0.6632077693939209
+Original class :  ['tvmonitor', 'tvmonitor']
+Prediction class:  ['tvmonitor', 'tvmonitor']
+Sample  96  : Predicted Successfully, Time taken:  0.6659436225891113
+Original class :  ['tvmonitor', 'tvmonitor']
+Prediction class:  ['tvmonitor', 'tvmonitor']
+Sample  97  : Predicted Successfully, Time taken:  0.6707038879394531
+Original class :  ['person', 'tvmonitor']
+Prediction class:  ['person', 'tvmonitor']
+Sample  98  : Predicted Successfully, Time taken:  0.6702032089233398
+Original class :  ['bottle', 'tvmonitor']
+Prediction class:  ['bottle', 'tvmonitor']
+Sample  99  : Predicted Successfully, Time taken:  0.6640684604644775
+Original class :  ['chair', 'tvmonitor']
+Prediction class:  ['chair', 'chair', 'tvmonitor']
+Sample  100  : Predicted Incorrectly, Time taken:  0.6691796779632568
+
+Accuracy :  90 % , Time taken per Sample:  0.6759067821502686
